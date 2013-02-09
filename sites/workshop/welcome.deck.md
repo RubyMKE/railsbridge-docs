@@ -93,8 +93,8 @@ We want the community of software developers to reflect the diversity of our soc
 
 <!SLIDE bullets>
 # Materials
-* Slides: <http://curriculum.railsbridge.org/workshop>
-* Suggestotron Curriculum: <http://curriculum.railsbridge.org/>
+* Slides: <http://ruby201.herokuapp.com/workshop>
+* Suggestotron Curriculum: <http://ruby201.herokuapp.com/curriculum>
 
 <!SLIDE bullets>
 # What will you learn today?
@@ -102,6 +102,6 @@ We want the community of software developers to reflect the diversity of our soc
   * understanding the Ruby programming language
 * Rails
   * learn tools and patterns for building web apps in Ruby on Rails
-  
+
 ---
 Proceed to next slide deck: [Today's Workshop Info and Schedule](current)

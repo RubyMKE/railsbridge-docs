@@ -22,7 +22,9 @@
 
 <!SLIDE bullets>
 # Why are we here?
-We want the community of software developers to reflect the diversity of our society
+* We want to grow the local Ruby community
+* We want the community of software developers to reflect the diversity of our society
+* We want to have fun!
 
 <!SLIDE bullets>
 # Why are we here?
